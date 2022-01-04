@@ -6,7 +6,7 @@ I decided to learn web development by myself a year ago 🚀, and now I consider
 <br>
 
 
-💼 I am currently working as an R&D&I engineer with IoT Technology. <br>
+💼 I am currently working as an R+D+I engineer with IoT Technology. <br>
 🌱 I’m currently learning MERN Stack and Reack + Firebase. <br>
 🤔 I’m looking for help for my future Full-Stack projects.<br>
 😜 I also have experience in wordpress, SEO and web scraping. <br>
