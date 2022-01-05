@@ -1,15 +1,15 @@
 <h2>Fullstack JavaScript developer <img src='https://media4.giphy.com/media/GZu3NtMoA6Lp2alLKk/giphy.gif?cid=ecf05e47yewzfsj2v9q7ila07q34qty7twqawxtl9b4d2wn8&rid=giphy.gif&ct=s' width='37'/></h2> 
 
-<p>Hi, I'm Jorge Vivas. I'm an industrial engineer, passionate about new technologies and programming.
+<p>Hi, I'm Jorge Vivas. I'm an industrial engineer, passionated about new technologies and programming.
 <br>
-I decided to learn web development by myself a year ago 🚀, and now I consider myself a qualified JS developer with good skills.
+I decided to learn web development by myself ont year ago 🚀, and now I consider myself a qualified JS developer with helpful skills.
 <br>
 
 
 💼 I am currently working as an R+D+I engineer with IoT Technology. <br>
 🌱 I’m currently learning MERN Stack and Reack + Firebase. <br>
 🤔 I’m looking for help for my future Full-Stack projects.<br>
-😜 I also have experience in wordpress, SEO and web scraping. <br>
+😜 Besides, I have experience in Wordpress, SEO and web scraping. <br>
 📫 How to reach me: jovivaspo@gmail.com <br>
   
 </p>
