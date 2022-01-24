@@ -36,4 +36,5 @@ I decided to learn web development by myself ont year ago 🚀, and now I consid
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code)
+![Notion](https://img.shields.io/badge/-Notion-black?style=flat&logo=notion)
 
