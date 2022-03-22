@@ -7,7 +7,8 @@ I decided to learn web development by myself two years ago 🚀, and now I consi
 
 
 💼 I am currently working as an R+D+I engineer with IoT Technology. <br>
-🌱 I’m currently learning MERN Stack and Reack + Firebase. <br>
+🔧 Stacks used MERN and Reack + Firebase. <br>
+🌱 I am currently learning native mobile application development.<br>
 🤔 I’m looking for help for my future Full-Stack projects.<br>
 😜 Besides, I have experience in Wordpress, SEO and web scraping. <br>
 📫 How to reach me: jovivaspo@gmail.com <br>
