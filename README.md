@@ -19,9 +19,11 @@ I decided to learn web development by myself ont year ago 🚀, and now I consid
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![React-Native](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
+
 
 
 ### Backend
@@ -29,6 +31,7 @@ I decided to learn web development by myself ont year ago 🚀, and now I consid
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Sockets](https://img.shields.io/badge/-Sockets-black?style=flat-square&logo=socket)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
 
 
