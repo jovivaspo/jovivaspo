@@ -8,7 +8,7 @@ I decided to learn web development by myself two years ago 🚀, and now I consi
 
 💼 I am currently working as an R+D+I engineer with IoT Technology. <br>
 🔧 Stacks used MERN, React + Firebase and React Native for mobile application. <br>
-🤖 Learning Tensorflow js.<br>
+🤖 Learning Python and AI.<br>
 🤔 I’m looking for help for my future Full-Stack projects.<br>
 😜 Besides, I have experience in Wordpress, SEO and web scraping. <br>
 📫 How to reach me: jovivaspo@gmail.com <br>
