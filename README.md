@@ -2,7 +2,7 @@
 
 <p>Hi, I'm Jorge Vivas. I'm an industrial engineer, passionated about new technologies and programming.
 
-💻 Programming since 2019.
+💻 Programming since 2019.<br>
 💼 I am currently working as an R+D+I engineer with IoT Technology. <br>
 🔧 Stacks used MERN, Gatsby/Nextjs with Strapi and React Native for mobile application. <br>
 🤖 Learning Python and AI.<br>
