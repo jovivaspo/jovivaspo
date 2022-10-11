@@ -1,16 +1,17 @@
-<h2>Fullstack JavaScript developer <img src='https://media4.giphy.com/media/GZu3NtMoA6Lp2alLKk/giphy.gif?cid=ecf05e47yewzfsj2v9q7ila07q34qty7twqawxtl9b4d2wn8&rid=giphy.gif&ct=s' width='37'/></h2> 
+<h2>Fullstack Developer</h2> 
 
-<p>Hi, I'm Jorge Vivas. I'm an industrial engineer, passionated about new technologies and programming.
+<p>Welcome to my profile! My name is Jorge Vivas and I'm an industrial engineer with a passion for new technologies 🤓</p>
+ - Favourite Stack: MERN <br>
+ - Work experience: application development for IoT systems and task automation with VBA<br>
+ - Currently: learning Python and ML for natural language processing<br>
+ 
 
-💻 Programming since 2019.<br>
-💼 I am currently working as an R+D+I engineer with IoT Technology. <br>
-🔧 Stacks used MERN, Gatsby/Nextjs with Strapi and React Native for mobile application. <br>
-🤖 Learning Python and AI.<br>
-🤔 I’m looking for help for my future Full-Stack projects.<br>
-😜 Besides, I have experience in Wordpress, SEO and web scraping. <br>
-📫 How to reach me: jovivaspo@gmail.com <br>
-  
-</p>
+
+
+
+
+
+
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=orange)
