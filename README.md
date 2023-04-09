@@ -1,6 +1,6 @@
 <h2>Fullstack Developer</h2> 
 
-<p>Welcome to my profile! My name is Jorge Vivas and I'm an industrial engineer with a passion for new technologies and web development.  🤓 </p>
+<p>Hi! I'm Jorge Vivas, programmer and Full Stack developer. In my Github profile you'll find projects that demonstrate my skills in programming and building web applications, always looking for innovative and easy to use solutions. Thanks for visiting me!p>
 
  - Favourite stack: **MERNS**<br><br>
  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
